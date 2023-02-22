@@ -1,4 +1,4 @@
-var APIKey = "166a433c57516f51dfab1f7edaed8413";
+var APIKey = "eea7fe2fbc09d5795dc3ea53b4563f4e";
 var city = "";
 var currentDate = "";
 var tempF = "";
