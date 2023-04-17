@@ -1,4 +1,7 @@
-# 06 Server-Side APIs: Weather Dashboard
+# Weather Dashboard
+
+# Code Credit
+(https://github.com/saman2052)
 
 ## User Story
 
